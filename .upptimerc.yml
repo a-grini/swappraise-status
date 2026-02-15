@@ -21,7 +21,7 @@ sites:
 
 status-website:
   # Custom domain
-  cname: status.swappraise.app
+  cname: status.swappraise.com
 
   # Add your logo (optional)
   # logoUrl: https://app.swappraise.com/logo.png
