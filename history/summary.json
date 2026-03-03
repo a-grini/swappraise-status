@@ -10,12 +10,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 467,
-    "timeDay": 504,
-    "timeWeek": 457,
-    "timeMonth": 467,
-    "timeYear": 467,
-    "dailyMinutesDown": {}
+    "time": 1594,
+    "timeDay": 11197,
+    "timeWeek": 3136,
+    "timeMonth": 1594,
+    "timeYear": 1594,
+    "dailyMinutesDown": {
+      "2026-03-03": 0
+    }
   },
   {
     "name": "Development API",
