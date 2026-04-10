@@ -1,7 +1,7 @@
 url: https://app.swappraise.com/api/v1/health
-status: up
-code: 200
-responseTime: 521
-lastUpdated: 2026-04-09T23:17:51.856Z
+status: down
+code: 502
+responseTime: 168
+lastUpdated: 2026-04-10T15:26:55.381Z
 startTime: 2026-02-15T15:40:45.284Z
 generator: Upptime <https://github.com/upptime/upptime>
